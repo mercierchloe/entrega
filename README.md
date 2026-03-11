@@ -7,7 +7,7 @@
 ---
 -Chloé Mercier <https://github.com/mercierchloe/modulo_1>
 
--Valentina
+-Valentina Bevacqua <https://github.com/valentinabevacqua>
 
 -Juan Francisco Buttazzoni <https://github.com/Juanfra04/Modulo_1>
 
