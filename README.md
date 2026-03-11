@@ -1,4 +1,4 @@
-# Entraga
+# Entrega
 
 ## **Grupo: Les chats**
 
