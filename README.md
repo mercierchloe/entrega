@@ -11,7 +11,7 @@
 |Andrés|Cotignola|12|12|
 |Valentina|Bevacqua|123|123|
 |Francisco|Avallone|1|1|
-|Juan Francisco|Buttazzoni|
+|Juan Francisco|Buttazzoni|Juanfrauncuyo@gmail.com|2626862983|||
 |Chloé|Mercier|
 
 
