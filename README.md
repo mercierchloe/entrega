@@ -18,6 +18,8 @@
 
 -Curriculum Vitae de cada integrante
 
+-CV Cotignola Andrés
+
 <img width="768" height="512" alt="ChatGPT Image 11 mar 2026, 07_57_59 p m  (1)" src="CV_Andrés_Cotignola_page-0001.jpg" />
 
 
