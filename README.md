@@ -22,5 +22,7 @@
 
 <img width="550" height="600" alt="ChatGPT Image 11 mar 2026, 07_57_59 p m  (1)" src="CV_Andrés_Cotignola (1)_page-0001 (1).jpg" />
 
+-CV Buttazzoni Juan Francisco
 
+<src="CV_Juan_francisco_Buttazzoni_LaTex.pdf" />
 ---
