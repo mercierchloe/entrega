@@ -39,7 +39,8 @@
 [![Vista previa de mi documento](CVs/A_Customised_CurVe_CV_page-0001.jpg)]  
 
 - CV Mercier Chloé
-[![Vista previa de mi documento](CVs/CV_Mercier_Chloé.pdf)]
+![CV_Mercier_Chloé_page-0001](https://github.com/user-attachments/assets/4c3d8390-ce2a-450f-a21b-b1ada423ecd3)
+
 
 
 
