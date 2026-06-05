@@ -5,5 +5,5 @@
 |Valentina|Bevacqua|valentinabevacqua.s@gmail.com|2615576397||
 |Francisco|Avallone|avallonefrancisco@gmail.com|2614607436||
 |Juan Francisco|Buttazzoni|Juanfrauncuyo@gmail.com|2616862983||
-|Chloé|Mercier|chloemercier0806@outlook.com|+33 782720262||
+|Chloé|Mercier|chloemercier0806@outlook.com|+33 782720262|https://github.com/mercierchloe/modulo_2|
 |Lucas|Baena|lucasbaena@gmail.com|2615432482||
